@@ -178,7 +178,7 @@ The seed data also contains additional cashier/staff accounts for testing.
 Repository:
 
 ```text
-<ADD-YOUR-PUBLIC-GITHUB-REPOSITORY-URL-HERE>
+https://github.com/abelgeostan/textile-pos
 ```
 
 The repository should contain the complete source code, including:
@@ -250,7 +250,7 @@ Cloudflare provides HTTPS externally while the local Docker services can remain 
 Clone the GitHub repository:
 
 ```bash
-git clone [https://github.com/abelgeostan/textile-pos.git](https://github.com/abelgeostan/textile-pos.git)
+git clone https://github.com/abelgeostan/textile-pos
 cd textile-pos
 ```
 

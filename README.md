@@ -250,8 +250,8 @@ Cloudflare provides HTTPS externally while the local Docker services can remain 
 Clone the GitHub repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone [https://github.com/abelgeostan/textile-pos.git](https://github.com/abelgeostan/textile-pos.git)
+cd textile-pos
 ```
 
 Create the production environment file:

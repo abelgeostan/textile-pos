@@ -9,6 +9,8 @@ A complete textile/retail POS application with Admin, Billing Staff, and mobile 
 **API / Swagger:** https://textposback.brethren.in/docs  
 **GitHub:** https://github.com/abelgeostan/textile-pos
 
+If you experience any issues with the live demo, please run the project locally using the setup instructions provided in this README.
+
 ### Test Accounts
 
 **Admin**
